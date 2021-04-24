@@ -15,6 +15,7 @@ function MeetupItems(props) {
       <div className={classes.actions}>
         <button>To Favorite</button>
       </div>
+      <div></div>
     </li>
   );
 }
